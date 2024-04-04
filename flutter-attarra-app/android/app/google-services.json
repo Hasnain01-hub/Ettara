@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35231514717",
+    "project_id": "attarra-e80ee",
+    "storage_bucket": "attarra-e80ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35231514717:android:71516c676c4d32a884cdb4",
+        "android_client_info": {
+          "package_name": "com.example.attarra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35231514717-dm6cmi6numrnut8q2mvm11lppson9vma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqnb5g4fHi0VgD5ZuXPhwbFD4G1-7Y4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35231514717-dm6cmi6numrnut8q2mvm11lppson9vma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35231514717-dipkpdu94ecllm4sq7cgr1uelnba0eub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.attarra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

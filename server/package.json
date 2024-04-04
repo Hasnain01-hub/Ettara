@@ -1,0 +1,43 @@
+{
+  "name": "ettarra-asthetech",
+  "version": "1.0.0",
+  "description": "Backend server for Codeshastra-9.0 edition hackathon at DJ Sanghvi College of Engineering, Ville Parle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abby3010/djcsi_AStheTECH.git"
+  },
+  "author": "Abhay Ubhale, Neel Dandiwala, Hasnain Sayyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abby3010/djcsi_AStheTECH/issues"
+  },
+  "homepage": "https://github.com/abby3010/djcsi_AStheTECH#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.8.2",
+    "base64-to-image": "^1.0.2",
+    "cloudinary": "^1.35.0",
+    "cors": "^2.8.5",
+    "datauri": "^4.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.6.0",
+    "hardhat": "^2.6.2",
+    "moralis": "^2.14.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22",
+    "qrcode": "^1.5.1",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/sinon-chai": "^3.2.12",
+    "ethereum-waffle": "^4.0.10",
+    "ethers": "^5.7.2"
+  }
+}

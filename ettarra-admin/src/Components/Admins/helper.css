@@ -1,0 +1,27 @@
+.rotate {
+  font-size: 25px;
+  text-align: center;
+  animation: rotate 1.5s linear infinite;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.col-md-3 {
+  flex: 0 0 auto;
+  width: 30%;
+}
+
+.rows {
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.ml-3,
+.mx-3 {
+  margin-left: 1rem !important;
+}
